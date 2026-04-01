@@ -1,7 +1,4 @@
 package pe.edu.tecsup.lab03;
 
-public class services {
+public class yakeli {
 }
-
-
-
